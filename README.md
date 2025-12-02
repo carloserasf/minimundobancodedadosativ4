@@ -38,7 +38,4 @@ american-chicken-sql/
 ---
 
 ## 👤 Autor
-Carlos Eras Filho - Ciência da Computação
-=======
-# minimundobancodedadosativ4
->>>>>>> be5a6a9a5b8d4b08a1bc3a46f5d5c3b25810dc43
+Carlos Eras Filho - Ciência da Computação.
